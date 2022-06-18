@@ -6,6 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="34bebb81-a0d5-4e29-a80b-cc7d67c59afc" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/Calculator.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/Calculator.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,7 +50,14 @@
       <recent name="$PROJECT_DIR$/src/main/kotlin" />
     </key>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="TornadoFX.Application (1)">
+    <configuration name="Application (1)" type="TORNADOFX_RUNCONFIGURATION" temporary="true" run-type="App" live-views="false" live-stylesheets="false" dump-stylesheets="false">
+      <option name="MAIN_CLASS_NAME" value="Application" />
+      <module name="calculator.test" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Application" type="TORNADOFX_RUNCONFIGURATION" temporary="true" run-type="App" live-views="false" live-stylesheets="false" dump-stylesheets="false">
       <option name="MAIN_CLASS_NAME" value="Application" />
       <module name="calculator.test" />
@@ -57,8 +65,27 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Calculator (1)" type="TORNADOFX_RUNCONFIGURATION" temporary="true" run-type="View" live-views="false" live-stylesheets="false" dump-stylesheets="false">
+      <option name="MAIN_CLASS_NAME" value="tornadofx.App" />
+      <module name="calculator.test" />
+      <option name="VIEW_CLASS_NAME" value="Calculator" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Calculator" type="TORNADOFX_RUNCONFIGURATION" temporary="true" run-type="View" live-views="false" live-stylesheets="false" dump-stylesheets="false">
+      <option name="MAIN_CLASS_NAME" value="tornadofx.App" />
+      <module name="calculator.test" />
+      <option name="VIEW_CLASS_NAME" value="Calculator" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="TornadoFX.Application (1)" />
+        <item itemvalue="TornadoFX.Calculator (1)" />
+        <item itemvalue="TornadoFX.Calculator" />
         <item itemvalue="TornadoFX.Application" />
       </list>
     </recent_temporary>
